@@ -1,7 +1,7 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-### NAME: HAREESH R
-### REG NO: 212223230068
+### NAME: STEFFI J
+### REG NO: 212224220107
 
 ## Aim:
 To move the files between virtual machine.
